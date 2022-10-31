@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Contactos</title>
+    <link href="../css/contatos.css" rel="stylesheet" />
+    <!--<link href="../css/estilo.css" rel="stylesheet" />-->
+    <link href="../css/responsivo.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <article class="logo">
+            <h1>Agência Fake</h1>
+        </article>
+
+        <article class="menu">
+            <a href="index.html">Home</a>
+            <a href="Sobre.html">Sobre nós</a>
+            <a href="servicos.html">Serviços</a>
+            <a href="contatos.html">Contactos</a>
+            <a id="botao" href="#">Fale connosco</a>
+        </article>
+    </nav>
+
+    <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+    <section>
+        <article class="servicos1">
+
+            <div class="card1">
+                <img src="#" />
+                <div class="cardtex1">
+                    <p>Email</p>
+                </div>
+            </div>
+
+            <div class="card1">
+                <img src="#" />
+                <div class="cardtex1">
+                    <p>Telefone</p>
+                </div>
+            </div>
+
+            <div class="card1">
+                <img src="#" />
+                <div class="cardtex1">
+                    <p>Morada</p>
+                </div>
+            </div>
+
+        </article>
+    </section>
+
+    <br /> <br />
+
+    <div class="container">
+        <form action="action_page.php">
+
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+            <label for="country">Country</label>
+            <select id="country" name="country">
+                <option value="portugal">Portugal</option>
+                <option value="espanha">Espanha</option>
+                <option value="franca">França</option>
+            </select>
+
+            <label for="subject">Subject</label>
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+            <input type="submit" value="Submit">
+
+        </form>
+    </div>
+
+
+</body>
+
+</html>
