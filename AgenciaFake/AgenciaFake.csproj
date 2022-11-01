@@ -71,6 +71,7 @@
     <Content Include="css\estilo.css" />
     <Content Include="css\responsivo.css" />
     <Content Include="css\servicos.css" />
+    <Content Include="css\sobre.css" />
     <Content Include="html\contatos.html" />
     <Content Include="html\index.html" />
     <Content Include="html\servicos.html" />
@@ -80,11 +81,14 @@
     <Content Include="media\des_sites.png" />
     <Content Include="media\Digital-Marketing-PNG-Background-Image.png" />
     <Content Include="media\email.png" />
+    <Content Include="media\email1.png" />
     <Content Include="media\hero_right.png" />
+    <Content Include="media\map.png" />
     <Content Include="media\Marketing - 22109.mp4" />
     <Content Include="media\marketing.png" />
     <Content Include="media\original-1634476771357.jpg" />
     <Content Include="media\pc.png" />
+    <Content Include="media\phone-call.png" />
     <Content Include="media\smartphone.png" />
     <Content Include="media\whats.png" />
     <Content Include="Web.config" />
