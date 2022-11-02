@@ -20,13 +20,13 @@ A responsive media is not complete.
 
 ## Topics/Techniques
 
-:heavy_check_mark: Account registration with Name, NIF and Password;
+:heavy_check_mark: Different pages creation;
 
-:heavy_check_mark: Realize deposits and withdrawals;
+:heavy_check_mark: Editing HTML pages;
 
-:heavy_check_mark: Check balance;
+:heavy_check_mark: Use of photographs/media on websites:
 
-:heavy_check_mark: Present bank transactions;
+:heavy_check_mark: Semantic HTML;
 
 *IDE: Visual Studio 2022*
 
