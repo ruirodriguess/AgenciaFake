@@ -8,6 +8,8 @@ Status: Almost finished
 ## Description
 Development and creation of a website with the purpose of simulating a customer order. Simple pages were made in order to make the site attractive and functional. The texts and contents of the site are not the focus for me. 
 
+At the time I was developing this project, I hadn't had much contact with these languages. Currently I could improve some things but I decided to leave it as is to remember where I came from and how I started.
+
 A responsive media is not complete.
 
 ## Languages 
